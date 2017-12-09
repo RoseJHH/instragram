@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Proxima Nova', Georgia, sans-serif;
+    display: block !important;
+}
+#mydiv {
+    text-align: center;
+    margin-top: 15em;
+}
+#login{
+    text-align: center;
+    height: 3em;
+    width: 13em;
+    border-radius: 5px;
+    margin: 2em auto auto;
+    display: block;
+    background-color: #125688;
+    border-color: #125688;
+    color: white;
+}
+
